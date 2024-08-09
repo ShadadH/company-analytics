@@ -17,3 +17,20 @@ The Ziina team sought to understand how their product is performing. I was taske
 This project involves analyzing the growth performance of Ziina, a fintech company, using a dataset provided by the company. The primary goal was to create an insightful report that would be easy to understand by all team members, across different departments. The report is designed to highlight key insights and includes visualizations to enhance comprehension.
 
 To achieve this, I used **MySQL** for data analysis and **Tableau** for creating visualizations that clearly communicate the findings to the team.
+
+## Summary
+
+Based on the analysis conducted, several key insights emerged regarding Ziina's product performance:
+
+Acquisition Channels: The Organic channel generated the highest total revenue (28.78% of total revenue), while the Sales channel had the highest Revenue Per User (RPU) at $157.78, suggesting that focusing on the Sales channel could enhance overall revenue.
+
+Cohort Analysis: The June cohort generated the most overall revenue, driven by a large user base and high Revenue Per Transaction (RPT). Conversely, the March cohort performed poorly, with the lowest RPU and RPT, and a concerning 66% churn rate.
+
+Retention: While short-term retention rates across cohorts were relatively high (50-60% in the first 1-2 months), there was a significant drop in retention over the longer term (down to 30-40% beyond 3 months), indicating a need for improved long-term engagement strategies.
+
+Top Users: The top 5 revenue-generating users accounted for nearly 15% of total revenue, with organic and sales channels being the most effective at attracting these top users.
+
+Churn: The March cohort experienced an alarming churn rate spike of 66%, suggesting potential issues beyond seasonality, such as app or fee structure changes, that need further investigation.
+
+These findings suggest that Ziina should focus on enhancing its long-term retention strategies, optimizing underperforming acquisition channels, and addressing specific issues that led to the March churn anomaly to sustain growth and maximize customer lifetime value.
+
